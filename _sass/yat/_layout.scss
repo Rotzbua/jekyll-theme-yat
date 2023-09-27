@@ -385,7 +385,6 @@ html {
       padding: 4px;
       margin-right: 8px;
       transform: rotate(135deg);
-      -webkit-transform: rotate(135deg);
     }
 
     & > .next:after {
@@ -396,7 +395,6 @@ html {
       padding: 4px;
       margin-left: 8px;
       transform: rotate(-45deg);
-      -webkit-transform: rotate(-45deg);
     }
 
     .previous span, .next span {
@@ -540,7 +538,6 @@ html {
     padding: 4px;
     margin-right: 8px;
     transform: rotate(135deg);
-    -webkit-transform: rotate(135deg);
   }
 
   .next:after {
@@ -551,7 +548,6 @@ html {
     padding: 4px;
     margin-left: 8px;
     transform: rotate(-45deg);
-    -webkit-transform: rotate(-45deg);
   }
 }
 
